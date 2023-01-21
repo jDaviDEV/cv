@@ -1,0 +1,52 @@
+/* -------------principal navitagion bar----------- */
+.table-display {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.table-name {
+    font-size: 1.5rem;
+}
+
+.table-description {
+    font-size: 1rem;
+}
+
+.navbar {
+    padding: 0 1.5rem;
+}
+.nav-item {
+    padding: 0 16px;
+}
+
+.nav-item-scale {
+    padding-left: 0;
+    transition: 50ms;
+}
+
+.nav-item-scale:hover {
+    scale: 1.05;
+}
+
+.logo-position {
+    position: relative;
+    bottom: 12px;
+}
+
+/* -------------------------------------------------- */
+
+/* --------------------skill cards------------------- */
+
+/* -------------------------------------------------- */
+
+/* ----------------------Footer---------------------- */
+.list-style {
+    list-style: none;
+}
+
+.contact-me-padding {
+    padding-left: 8rem;
+    padding-right: 8rem;
+}
+
+/* -------------------------------------------------- */
